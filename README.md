@@ -1,7 +1,7 @@
 # Requirements Engineering
 ## Thành viên nhóm 12
 1. Nguyễn Huy Minh
-
+2. Nguyễn Trần Tuấn Anh (Làm slide)
 ## Đề tài
 Hệ thống diễn đàn trao đổi cho sinh viên UET
 
